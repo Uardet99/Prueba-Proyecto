@@ -6,5 +6,8 @@ public class Main {
 		System.out.println("Hola Edu");
 
 	}
+	public static void main2(String[] args) {
+		System.out.println("Adios");
 
+	}
 }
