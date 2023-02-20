@@ -10,4 +10,8 @@ public class Main {
 		System.out.println("Adios");
 
 	}
+		public static void main2(String[] args) {
+		System.out.println("Adios");
+
+	}
 }
